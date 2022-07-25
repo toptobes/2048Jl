@@ -1,0 +1,12 @@
+
+name = "2048Jl"
+uuid = "6434f5c5-3e0b-4c07-bb36-ffebd7d1948a"
+authors = ["toptobes"]
+version = "0.0.1"
+
+[compat]
+julia = "1.7.3"
+
+[deps]
+Crayons = "a8cc5b0e-0ffa-5ad4-8c14-923d3ee1735f"
+Match = "7eb4fadd-790c-5f42-8a69-bfa0b872bfbf"
